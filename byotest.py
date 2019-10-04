@@ -48,8 +48,8 @@ test_are_equal(number_of_evens([1, 2, 3, 4, 5]), 2)
 # Test to fail the `test_is_in` function
 # test_is_in([1], 2)
 
-# Test to fail the `test_not_in` function
-# test_not_in([1], 1)
+Test to fail the `test_not_in` function
+test_not_in([1], 1)
 
 # Test to fail the `test_between` function
 test_between(10, 1, 200)
